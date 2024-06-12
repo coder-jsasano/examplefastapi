@@ -1,0 +1,19 @@
+#list = used to store multiple items in a single variable
+
+food = ["pizza","hamburger","ramen","mac&cheese","cake"]
+
+food[0] = "sushi"
+
+#food.append("ice cream") = add
+#food.remove("ramen") = remove
+#food.pop() = remove the end of excuses
+#food.insert(0,"puddin") = insert into comamnded coordination
+#food.sort() = sort out in alphabet order
+#food.clear() = show non
+
+
+#print(food[0])
+
+for i in food:
+    print(i)
+

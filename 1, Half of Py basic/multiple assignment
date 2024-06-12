@@ -1,0 +1,23 @@
+#multiple assignment
+
+#name = "Jquan"
+#age  = 21
+#attractive = True
+
+#name, age, attractive = "Jquan", 21, True
+
+#print(name)
+#print(age)
+#print(attractive)
+
+#Spongebob = 30
+#Patric = 30
+#Sandy = 30
+#quidward = 30
+
+Spongebob = Patric = Sandy = Sqidward = 30
+
+print(Spongebob)
+print(Patric)
+print(Sandy)
+print(Sqidward)

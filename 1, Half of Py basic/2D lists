@@ -1,0 +1,9 @@
+#2D_lists = a list of lists
+
+drinks = ["coffee","water","soda"]
+dinner = ["pizza","hamburger","ramen","mac&cheese"]
+dessert = ["cake","chocolate"]
+
+food = [drinks, dinner, dessert]
+
+#print(food[2][2])

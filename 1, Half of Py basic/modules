@@ -1,6 +1,0 @@
-#import #module's name (as name)
-
-#(as name).hello()
-
-#help("modules") #showing modules that can be imported
-
